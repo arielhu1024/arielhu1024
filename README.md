@@ -2,7 +2,7 @@
 
 I'm **Ariel Hu**, a graduate student pursuing a Master of Science in Business Analytics at the University of Arizona.
 
-My interests lie at the intersection of **Artificial Intelligence, Consumer Behavior, Marketing Analytics, and Data Science**. I am particularly fascinated by how emerging AI technologies influence consumer decision-making, trust formation, and human-AI interaction. My long-term goal is to pursue a PhD in Marketing and contribute to research that bridges behavioral science and advanced analytics.
+My interests lie at the intersection of **Artificial Intelligence, Consumer Behavior, Marketing Analytics, and Data Science**. I am particularly fascinated by how emerging AI technologies influence consumer decision-making, trust formation, and human-AI interaction.
 
 ---
 
@@ -10,9 +10,13 @@ My interests lie at the intersection of **Artificial Intelligence, Consumer Beha
 
 Over the past several years, I have worked on both academic research and industry-oriented analytics projects. My experience ranges from consumer behavior experiments and statistical modeling to large-scale machine learning and data engineering pipelines.
 
-Recently, I conducted a large-scale study examining the impact of YouTube platform policy changes on creator behavior. Using data collected through the YouTube Data API, Kafka, and PySpark, I built a dataset containing over **1.27 million videos** and applied Difference-in-Differences, Fixed Effects, Poisson, and Negative Binomial models to analyze creator responses to platform governance changes.
+I am passionate about using data and behavioral research to better understand how people interact with technology. My academic journey has allowed me to explore questions at the intersection of consumer behavior, artificial intelligence, and business analytics, where quantitative methods can be used to explain complex human decisions.
 
-I have also worked extensively on AI-related consumer behavior research, investigating topics such as AI-generated identity labeling, AI nationality effects, and consumer adoption of AI-generated content.
+Through research and analytics experiences, I have developed a strong passion for artificial intelligence, machine learning, and data-driven problem solving. I enjoy designing and implementing analytical solutions, from data engineering pipelines and large-scale data processing to deep learning model development and evaluation.
+
+My technical interests include deep learning, transfer learning, natural language processing, and generative AI. Working with frameworks such as PyTorch and Scikit-learn has allowed me to explore how advanced machine learning methods can be applied to both academic research and real-world business challenges. I am particularly excited by the rapid evolution of AI and its potential to transform decision-making, consumer experiences, and organizational strategy.
+
+My long-term goal is to contribute to both academic research and practical innovation by producing evidence-based insights that help organizations better understand consumer behavior in an increasingly AI-powered world.
 
 ---
 
@@ -20,7 +24,7 @@ I have also worked extensively on AI-related consumer behavior research, investi
 
 My academic and professional experiences have allowed me to develop expertise in both quantitative research and applied analytics.
 
-On the research side, I have experience designing experiments, conducting survey studies, performing statistical analyses, and writing academic manuscripts for peer-reviewed journals. My work has resulted in publications in *Psychology & Marketing* and ongoing projects under review in leading consumer behavior and marketing journals.
+On the research side, I have experience designing experiments, conducting survey studies, performing statistical analyses, and writing academic manuscripts for peer-reviewed journals. My work has resulted in publications in *Psychology & Marketing* and *Journal of Consumer Behaviour* in leading consumer behavior and marketing journals.
 
 On the analytics side, I enjoy transforming complex datasets into actionable insights. Whether building predictive models, developing machine learning pipelines, or creating business dashboards, I am passionate about using data to support evidence-based decision making.
 
@@ -64,12 +68,6 @@ On the analytics side, I enjoy transforming complex datasets into actionable ins
 
 Investigates how AI-generated identity labels influence consumer preferences and decision-making.
 
-### Psychology & Marketing (2025)
-
-**Identity Multiplicity Signaling Fosters Interpersonal Trust**
-
-Explores how identity signaling shapes interpersonal trust across cultural contexts.
-
 ### Journal of Consumer Behaviour
 
 **The Domestic AI Advantage**
@@ -82,21 +80,14 @@ Examines how the nationality of generative AI influences consumer adoption of AI
 
 # 🌟 Featured Projects
 
-### 🎥 YouTube Creator Policy Study
+### 🎥 Breaking the 15-Minute Barrier: How Policy Changes Shape Creator Activity on YouTube
 
 Large-scale behavioral analytics project examining creator adaptation to platform policy changes.
 
-### 🤖 Deep Learning Image Sentiment Analysis
+### 🤖 Transfer Learning for Image Sentiment Classification and Engagement Analysis
 
 Transfer-learning framework using AlexNet, ResNet50, and EfficientNet for sentiment prediction.
 
-### 📊 ARSOBO Analytics Consulting
-
-Developed donor analytics solutions and interactive dashboards for nonprofit fundraising strategy.
-
-### 🎓 Business Analytics Program Benchmarking
-
-Competitive analysis of MSBA programs across U.S. universities focusing on curriculum, pricing, AI integration, and market positioning.
 
 ---
 
