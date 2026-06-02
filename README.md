@@ -30,7 +30,7 @@ Investigates how AI-generated identity labels influence consumer preferences and
 
 ### Journal of Consumer Behaviour
 
-**Zhengyu Shen, Yunxuan Hu, and Liang Yongheng (2026), “The domestic AI advantage: How the national identity of generative AI shapes consumer adoption of AI-generated content,” Journal of Consumer Behaviour.https://doi.org/10.1002/cb.70125**
+**Zhengyu Shen, Yunxuan Hu, and Liang Yongheng (2026), “The domestic AI advantage: How the national identity of generative AI shapes consumer adoption of AI-generated content,” Journal of Consumer Behaviour. https://doi.org/10.1002/cb.70125**
 
 Examines how the nationality of generative AI influences consumer adoption of AI-generated content.
 
