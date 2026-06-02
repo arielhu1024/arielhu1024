@@ -24,16 +24,14 @@ My long-term goal is to contribute to both academic research and practical innov
 
 ### Psychology & Marketing (2025)
 
-**Zhengyu Shen, Yunxuan Hu, and Yunlu Yin (2025), “Algorithm-generated identity labeling promotes identity-consistent product preferences,” Psychology & Marketing, 42(6), 1667-1679.**
+**Zhengyu Shen, Yunxuan Hu, and Yunlu Yin (2025), “Algorithm-generated identity labeling promotes identity-consistent product preferences,” Psychology & Marketing, 42(6), 1667-1679. https://doi.org/10.1002/mar.22195**
 
-https://doi.org/10.1002/mar.22195
 Investigates how AI-generated identity labels influence consumer preferences and decision-making.
 
 ### Journal of Consumer Behaviour
 
-**Zhengyu Shen, Yunxuan Hu, and Liang Yongheng (2026), “The domestic AI advantage: How the national identity of generative AI shapes consumer adoption of AI-generated content,” Journal of Consumer Behaviour.**
+**Zhengyu Shen, Yunxuan Hu, and Liang Yongheng (2026), “The domestic AI advantage: How the national identity of generative AI shapes consumer adoption of AI-generated content,” Journal of Consumer Behaviour.https://doi.org/10.1002/cb.70125**
 
-https://doi.org/10.1002/cb.70125
 Examines how the nationality of generative AI influences consumer adoption of AI-generated content.
 
 ### Working Paper
