@@ -38,25 +38,15 @@ On the analytics side, I enjoy transforming complex datasets into actionable ins
 
 ### Machine Learning & AI
 
-`PyTorch` • `Scikit-Learn` • `Deep Learning`
-
-`Transfer Learning` • `Computer Vision`
-
-`Natural Language Processing`
+`PyTorch` • `Scikit-Learn` • `Deep Learning` • `Transfer Learning` • `Natural Language Processing`
 
 ### Data Engineering
 
-`Kafka` • `PySpark`
-
-`ETL Pipelines` • `REST APIs`
+`Kafka` • `PySpark` • `ETL Pipelines` • `REST APIs`
 
 ### Visualization & Business Intelligence
 
-`Tableau`
-
-`Power BI`
-
-`Statistical Modeling`
+`Tableau` • `Power BI` • `Statistical Modeling`
 
 ---
 
