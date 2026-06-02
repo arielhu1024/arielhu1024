@@ -20,13 +20,37 @@ My long-term goal is to contribute to both academic research and practical innov
 
 ---
 
-# 🧠 Expertise
+# 📚 Publications
 
-My academic and professional experiences have allowed me to develop expertise in both quantitative research and applied analytics.
+### Psychology & Marketing (2025)
 
-On the research side, I have experience designing experiments, conducting survey studies, performing statistical analyses, and writing academic manuscripts for peer-reviewed journals. My work has resulted in publications in *Psychology & Marketing* and *Journal of Consumer Behaviour* in leading consumer behavior and marketing journals.
+**Zhengyu Shen, Yunxuan Hu, and Yunlu Yin (2025), “Algorithm-generated identity labeling promotes identity-consistent product preferences,” Psychology & Marketing, 42(6), 1667-1679.**
 
-On the analytics side, I enjoy transforming complex datasets into actionable insights. Whether building predictive models, developing machine learning pipelines, or creating business dashboards, I am passionate about using data to support evidence-based decision making.
+https://doi.org/10.1002/mar.22195
+Investigates how AI-generated identity labels influence consumer preferences and decision-making.
+
+### Journal of Consumer Behaviour
+
+**Zhengyu Shen, Yunxuan Hu, and Liang Yongheng (2026), “The domestic AI advantage: How the national identity of generative AI shapes consumer adoption of AI-generated content,” Journal of Consumer Behaviour.**
+
+https://doi.org/10.1002/cb.70125
+Examines how the nationality of generative AI influences consumer adoption of AI-generated content.
+
+### Working Paper
+
+**General or Specialized? The Influence of the Type of AI Agent on Consumer Adoption Behaviour**
+
+---
+
+# 🌟 Featured Projects
+
+### 🎥 Breaking the 15-Minute Barrier: How Policy Changes Shape Creator Activity on YouTube
+
+Large-scale behavioral analytics project examining creator adaptation to platform policy changes.
+
+### 🤖 Transfer Learning for Image Sentiment Classification and Engagement Analysis
+
+Transfer-learning framework using AlexNet, ResNet50, and EfficientNet for sentiment prediction.
 
 ---
 
@@ -47,37 +71,6 @@ On the analytics side, I enjoy transforming complex datasets into actionable ins
 ### Visualization & Business Intelligence
 
 `Tableau` • `Power BI` • `Statistical Modeling`
-
----
-
-# 📚 Publications
-
-### Psychology & Marketing (2025)
-
-**Algorithm-Generated Identity Labeling Promotes Identity-Consistent Product Preferences**
-
-Investigates how AI-generated identity labels influence consumer preferences and decision-making.
-
-### Journal of Consumer Behaviour
-
-**The Domestic AI Advantage**
-
-(Currently under major revision)
-
-Examines how the nationality of generative AI influences consumer adoption of AI-generated content.
-
----
-
-# 🌟 Featured Projects
-
-### 🎥 Breaking the 15-Minute Barrier: How Policy Changes Shape Creator Activity on YouTube
-
-Large-scale behavioral analytics project examining creator adaptation to platform policy changes.
-
-### 🤖 Transfer Learning for Image Sentiment Classification and Engagement Analysis
-
-Transfer-learning framework using AlexNet, ResNet50, and EfficientNet for sentiment prediction.
-
 
 ---
 
